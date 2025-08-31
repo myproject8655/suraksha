@@ -1,4 +1,4 @@
 export const data = {
   siteName: "Cyber Suraksha",
-  contactPhone: "+91 8510871389",
+  contactPhone: "+91 7290801035",
 };
